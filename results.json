@@ -1,0 +1,302 @@
+[
+  {
+    "seed": 7,
+    "scenario": "base",
+    "method": "frozen_capacity_capped",
+    "objective": 821.0,
+    "bound": 821.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 7,
+    "scenario": "base",
+    "method": "reoptimized",
+    "objective": 821.0,
+    "bound": 821.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 7,
+    "scenario": "demand_surge",
+    "method": "frozen_capacity_capped",
+    "objective": 4133.0,
+    "bound": 4133.0,
+    "status": "OPTIMAL",
+    "final_backlog": 48,
+    "backlog_unit_weeks": 240
+  },
+  {
+    "seed": 7,
+    "scenario": "demand_surge",
+    "method": "reoptimized",
+    "objective": 965.0,
+    "bound": 965.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 7,
+    "scenario": "downtime",
+    "method": "frozen_capacity_capped",
+    "objective": 1677.0,
+    "bound": 1677.0,
+    "status": "OPTIMAL",
+    "final_backlog": 14,
+    "backlog_unit_weeks": 64
+  },
+  {
+    "seed": 7,
+    "scenario": "downtime",
+    "method": "reoptimized",
+    "objective": 841.0,
+    "bound": 841.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 7,
+    "scenario": "inventory_loss",
+    "method": "frozen_capacity_capped",
+    "objective": 3267.0,
+    "bound": 3267.0,
+    "status": "OPTIMAL",
+    "final_backlog": 26,
+    "backlog_unit_weeks": 203
+  },
+  {
+    "seed": 7,
+    "scenario": "inventory_loss",
+    "method": "reoptimized",
+    "objective": 868.0,
+    "bound": 868.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 7,
+    "scenario": "compound",
+    "method": "frozen_capacity_capped",
+    "objective": 7435.0,
+    "bound": 7435.0,
+    "status": "OPTIMAL",
+    "final_backlog": 88,
+    "backlog_unit_weeks": 507
+  },
+  {
+    "seed": 7,
+    "scenario": "compound",
+    "method": "reoptimized",
+    "objective": 1116.0,
+    "bound": 1116.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 17,
+    "scenario": "base",
+    "method": "frozen_capacity_capped",
+    "objective": 780.0,
+    "bound": 780.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 17,
+    "scenario": "base",
+    "method": "reoptimized",
+    "objective": 780.0,
+    "bound": 780.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 17,
+    "scenario": "demand_surge",
+    "method": "frozen_capacity_capped",
+    "objective": 4092.0,
+    "bound": 4092.0,
+    "status": "OPTIMAL",
+    "final_backlog": 48,
+    "backlog_unit_weeks": 240
+  },
+  {
+    "seed": 17,
+    "scenario": "demand_surge",
+    "method": "reoptimized",
+    "objective": 924.0,
+    "bound": 924.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 17,
+    "scenario": "downtime",
+    "method": "frozen_capacity_capped",
+    "objective": 1674.0,
+    "bound": 1674.0,
+    "status": "OPTIMAL",
+    "final_backlog": 15,
+    "backlog_unit_weeks": 66
+  },
+  {
+    "seed": 17,
+    "scenario": "downtime",
+    "method": "reoptimized",
+    "objective": 804.0,
+    "bound": 804.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 17,
+    "scenario": "inventory_loss",
+    "method": "frozen_capacity_capped",
+    "objective": 3206.0,
+    "bound": 3206.0,
+    "status": "OPTIMAL",
+    "final_backlog": 26,
+    "backlog_unit_weeks": 201
+  },
+  {
+    "seed": 17,
+    "scenario": "inventory_loss",
+    "method": "reoptimized",
+    "objective": 825.0,
+    "bound": 825.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 17,
+    "scenario": "compound",
+    "method": "frozen_capacity_capped",
+    "objective": 7412.0,
+    "bound": 7412.0,
+    "status": "OPTIMAL",
+    "final_backlog": 89,
+    "backlog_unit_weeks": 507
+  },
+  {
+    "seed": 17,
+    "scenario": "compound",
+    "method": "reoptimized",
+    "objective": 1071.0,
+    "bound": 1071.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 41,
+    "scenario": "base",
+    "method": "frozen_capacity_capped",
+    "objective": 856.0,
+    "bound": 856.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 41,
+    "scenario": "base",
+    "method": "reoptimized",
+    "objective": 856.0,
+    "bound": 856.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 41,
+    "scenario": "demand_surge",
+    "method": "frozen_capacity_capped",
+    "objective": 4168.0,
+    "bound": 4168.0,
+    "status": "OPTIMAL",
+    "final_backlog": 48,
+    "backlog_unit_weeks": 240
+  },
+  {
+    "seed": 41,
+    "scenario": "demand_surge",
+    "method": "reoptimized",
+    "objective": 1000.0,
+    "bound": 1000.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 41,
+    "scenario": "downtime",
+    "method": "frozen_capacity_capped",
+    "objective": 2048.0,
+    "bound": 2048.0,
+    "status": "OPTIMAL",
+    "final_backlog": 20,
+    "backlog_unit_weeks": 88
+  },
+  {
+    "seed": 41,
+    "scenario": "downtime",
+    "method": "reoptimized",
+    "objective": 888.0,
+    "bound": 888.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 41,
+    "scenario": "inventory_loss",
+    "method": "frozen_capacity_capped",
+    "objective": 3272.0,
+    "bound": 3272.0,
+    "status": "OPTIMAL",
+    "final_backlog": 26,
+    "backlog_unit_weeks": 200
+  },
+  {
+    "seed": 41,
+    "scenario": "inventory_loss",
+    "method": "reoptimized",
+    "objective": 900.0,
+    "bound": 900.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  },
+  {
+    "seed": 41,
+    "scenario": "compound",
+    "method": "frozen_capacity_capped",
+    "objective": 7776.0,
+    "bound": 7776.0,
+    "status": "OPTIMAL",
+    "final_backlog": 94,
+    "backlog_unit_weeks": 528
+  },
+  {
+    "seed": 41,
+    "scenario": "compound",
+    "method": "reoptimized",
+    "objective": 1173.0,
+    "bound": 1173.0,
+    "status": "OPTIMAL",
+    "final_backlog": 0,
+    "backlog_unit_weeks": 0
+  }
+]
